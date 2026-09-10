@@ -1,7 +1,7 @@
 🍯 ESP32 Basic Honeypot
 
 
-![ESP32 Network Status Monitor](images/esp32-network-monitor.png)
+![ESP32 Network Status Monitor](images/ESP32%20Honeypot%20(1).jpeg)
 
 A simple cybersecurity project built with an ESP32 to demonstrate the basic concept of a Honeypot.
 
