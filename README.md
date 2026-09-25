@@ -1,6 +1,10 @@
 🍯 ESP32 Basic Honeypot
 
 
+[![Watch Demo on LinkedIn](https://img.shields.io/badge/Watch%20Demo-LinkedIn-blue?logo=linkedin)](https://lnkd.in/p/ggCvMUrA)
+
+
+
 ![ESP32 Network Status Monitor](images/ESP32%20Honeypot%20(1).jpeg)
 
 A simple cybersecurity project built with an ESP32 to demonstrate the basic concept of a Honeypot.
